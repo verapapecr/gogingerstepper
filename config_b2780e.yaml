@@ -1,0 +1,6 @@
+cache-dir: ~/.cache
+registry: default
+module.exports = {
+  semi: false,
+  singleQuote: true
+}

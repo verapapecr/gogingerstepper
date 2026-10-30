@@ -1,0 +1,9 @@
+{
+  "app": {
+    "name": "demo",
+    "debug": false
+  }
+}
+PORT=8080
+HOST=0.0.0.0
+LOG_LEVEL=info
